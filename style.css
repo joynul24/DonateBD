@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+
+.font-lexend {
+  font-family: "Lexend", sans-serif;
+}
+
+.hide{
+  display: none;
+}
+
+.bg-color-primary{
+  background-color: #B4F461;
+  color: black;
+}
+
+.secondary-bg {
+  background-color: #F9F7F3;
+}
+
+.btn-primary {
+  background-color: #B4F461;
+  color: black;
+  padding: 12px 32px;
+  border-radius: 8px;
+  border: none;
+  font-size: 20px;
+  font-weight: 600;
+}
